@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0ZuDp+1v1eMy9nRh84DOei2DmUatvjAbH2dPUbaQWp9Z/WkaQG25n3/IhxGs7xCYKvOIM+Xkg9ZTjoM5EGrRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12718\\Source\\repos\\IssueEnginePoc\\NxPro.WpfClient.DashboardModule\\NxPro.WpfClient.DashboardModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12718\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\12718\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\12718\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}
